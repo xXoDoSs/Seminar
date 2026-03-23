@@ -1,0 +1,10 @@
+de\gsolutions\client\CustomerServiceClient.class
+de\gsolutions\TestClient.class
+de\gsolutions\client\PriceServiceClient.class
+de\gsolutions\model\Customer.class
+de\gsolutions\DepotbewertungPublisher.class
+de\gsolutions\client\DepotServiceClient.class
+de\gsolutions\model\Depot.class
+de\gsolutions\model\Depotbewertung.class
+de\gsolutions\service\DepotbewertungService.class
+de\gsolutions\model\Position.class
